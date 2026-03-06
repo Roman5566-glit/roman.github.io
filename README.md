@@ -1,39 +1,56 @@
-<h1 align="center">Привет, я Роман 👋</h1>
+<h1 align="center">Hi 👋 I'm Roman Litvitskyi</h1>
 
 <p align="center">
-  🇺🇦 Python-разработчик из Украины <br>
-  🎓 Выпускник <strong>Rocket Tech School</strong> и студент <strong>Hillel IT School</strong> <br>
-  🏅 Имею сертификат по Python <br>
-  🧠 Изучаю искусственный интеллект, автоматизацию и создание приложений
+  🇺🇦 <b>Junior Python Developer</b> from Ukraine <br>
+  🎓 Student at <b>National Technical University</b> (Software Engineering, 2025—2030) <br>
+  📚 <b>Hillel IT School</b> Graduate (Python Pro, 2025—2026) <br>
+  🚀 <b>Rocket Tech School</b> Graduate (2024—2025)
 </p>
 
 ---
 
-### 🧑‍💻 Обо мне
+### 👨‍💻 About Me
 
-- 👶 Мне 16 лет  
-- 🐍 Программирую на **Python** уже **2 года**  
-- 💼 Работаю с различными библиотеками и инструментами  
-- 🎮 Разрабатываю игры, чат-ботов и веб-приложения  
-- 🤖 Создаю нейросети и автоматизированные решения  
+- 🐍 Focus: **Backend Development** (Python)
+- 🎓 Passionate about **Mathematics** and **Software Engineering**
+- 🤖 Interested in **AI, Automation**, and building scalable web applications
+- 💻 Open to **Remote** opportunities
 
 ---
 
-### 🧰 Мой стек технологий
+### 🛠 Tech Stack
 
-```python
-💡 Языки:
-- Python
-- HTML, CSS
-- SQL
+**Languages & Core**
+- Python, SQL (PostgreSQL, SQLite)
+- HTML5, CSS3
 
-🧱 Библиотеки и фреймворки:
-- Flask (веб-разработка)
-- PyGame (создание игр)
-- Pyrogram (Telegram-боты)
-- Requests (работа с API)
-- Random, Time, OS, Datetime
-- NumPy, Matplotlib
-- TensorFlow, Keras (нейросети)
-- OpenCV (cv2)
-- JSON, SQLite
+**Web Frameworks**
+- **Django** & **Django REST Framework (DRF)**
+- **FastAPI**, Flask
+
+**Tools & Technologies**
+- **Git / GitHub**
+- **PyCharm**, VS Code
+- Library experience: Pyrogram, Requests, NumPy, TensorFlow, OpenCV
+
+---
+
+### 🚀 Recent Learning & Projects
+- 🌐 Developing REST APIs with **Django REST Framework**
+- ⚡ Building asynchronous services with **FastAPI**
+- 🤖 Creating advanced **Telegram bots** and automation scripts
+
+---
+
+### 📫 Contact Me
+
+- **Telegram:** [@DraveFafner](https://t.me/DraveFafner)
+- **LinkedIn:** [Roman Litvitskyi](https://www.linkedin.com/in/roman-litvitskyi-0093853)
+- **Email:** [litvitskiyromka@gmail.com](mailto:litvitskiyromka@gmail.com)
+- **Video Pitch:** [Watch on YouTube](https://youtu.be/K6XU8HTNcmA)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roman5566-glit&show_icons=true&theme=radical" alt="Roman's GitHub stats" />
+</p>
