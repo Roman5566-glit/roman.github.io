@@ -47,7 +47,6 @@
 - **Telegram:** [@DraveFafner](https://t.me/DraveFafner)
 - **LinkedIn:** [Roman Litvitskyi](https://www.linkedin.com/in/roman-litvitskyi-0093853)
 - **Email:** [litvitskiyromka@gmail.com](mailto:litvitskiyromka@gmail.com)
-- **Video Pitch:** [Watch on YouTube](https://youtu.be/K6XU8HTNcmA)
 
 ---
 
