@@ -27,13 +27,18 @@
 
 **Web Frameworks**
 - **Django** & **Django REST Framework (DRF)**
-- **FastAPI**, Flask
+- **FastAPI**, Flask, Redis
 
 **Tools & Technologies**
 - **Git / GitHub**
 - **PyCharm**, VS Code
-- Library experience: Pyrogram, Requests, NumPy, TensorFlow, OpenCV, Pillow, Threading, multiprocessing, pygame, Tkinter, PyQt5
 
+**Data Science & Math**
+- NumPy, TensorFlow
+- OpenCV, Pillow
+
+**GUI & Automation**
+- Pyrogram, PyQt5
 ---
 
 ### 🚀 Recent Learning & Projects
@@ -52,5 +57,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roman5566-glit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roman5566-glit&show_icons=true&theme=radical&count_private=true" alt="Roman's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman5566-glit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
