@@ -21,8 +21,9 @@
 ### 🛠 Tech Stack
 
 **Languages & Core**
-- Python, SQL (PostgreSQL, SQLite)
+- Python, SQL (PostgreSQL, SQLite, MongoDb)
 - HTML5, CSS3
+- Rust, Java
 
 **Web Frameworks**
 - **Django** & **Django REST Framework (DRF)**
@@ -31,7 +32,7 @@
 **Tools & Technologies**
 - **Git / GitHub**
 - **PyCharm**, VS Code
-- Library experience: Pyrogram, Requests, NumPy, TensorFlow, OpenCV
+- Library experience: Pyrogram, Requests, NumPy, TensorFlow, OpenCV, Pillow, Threading, multiprocessing, pygame, Tkinter, PyQt5
 
 ---
 
@@ -45,8 +46,8 @@
 ### 📫 Contact Me
 
 - **Telegram:** [@DraveFafner](https://t.me/DraveFafner)
-- **LinkedIn:** [Roman Litvitskyi](https://www.linkedin.com/in/roman-litvitskyi-0093853)
-- **Email:** [litvitskiyromka@gmail.com](mailto:litvitskiyromka@gmail.com)
+- **LinkedIn:** [Roman Litvitskyi](https://www.linkedin.com/in/roman-litvitskyi-0093853b4)
+- **Email:** [litvitskiyromka@gmail.com]
 
 ---
 
